@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ronald a future FullStack Web Developer :green_heart:
 
 <!--
 **lexus654/lexus654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
