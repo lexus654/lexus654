@@ -4,6 +4,8 @@
 - [Here at Facebook](https://www.facebook.com/Lexus654)
 - [Here at twitter](https://twitter.com/ronaldlaz4)
 
+- [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
+
 Here are some ideas to get you started:
 
 
