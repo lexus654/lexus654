@@ -3,6 +3,7 @@
 ## 📫 How to reach me: ...
 - [Here at Facebook](https://www.facebook.com/Lexus654)
 - [Here at twitter](https://twitter.com/ronaldlaz4)
+- [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-b04688217/)
 
 - [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
 
