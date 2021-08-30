@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Ronald a future FullStack Web Developer :green_heart:
 
 ## 📫 How to reach me: ...
-- [Here at Facebook](https://www.facebook.com/Lexus654)
-- [Here at twitter](https://twitter.com/ronaldlaz4)
+- [PM me thru Facebook](https://www.facebook.com/Lexus654)
+- [DM me thru twitter](https://twitter.com/ronaldlaz4)
+- [Contact me thru Gmail](ronald.laz@tup.edu.ph)
 - [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-b04688217/)
-
 - [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
 
 Here are some ideas to get you started:
