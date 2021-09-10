@@ -1,5 +1,12 @@
 ### Hi there 👋 I am Ronald a future FullStack Web Developer :green_heart:
 
+## 📫 Who am I?: 
+  Hello I am Ronald, Currently 2nd year student from Technological University of the Philippines.
+  - A BS in *Electronics and Communication Engineering* Student.
+  - A **DOST Scholar** <3 
+  - Badminton is my Main Sports
+  - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
+
 ## 📫 How to reach me: ...
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
 - [DM me thru twitter](https://twitter.com/ronaldlaz4)
