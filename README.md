@@ -4,6 +4,7 @@
   Hello I am Ronald, Currently 2nd year student from Technological University of the Philippines.
   - A BS in *Electronics and Communication Engineering* Student.
   - A **DOST Scholar** <3 
+  - Technical Operation Manager at TUP Programming Guild
   - Badminton is my Main Sports
   - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
 
