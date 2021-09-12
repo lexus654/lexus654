@@ -21,6 +21,11 @@
 - [Contact me thru Gmail](ronald.laz@tup.edu.ph)
 - [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-b04688217/)
 - [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
+
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
