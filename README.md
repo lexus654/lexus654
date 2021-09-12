@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript, React
 - ⚡ Fun fact: I started my web development journey last April 2021
 
+
+
 <!--
 **lexus654/lexus654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
