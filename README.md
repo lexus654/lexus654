@@ -12,8 +12,10 @@
 - [x] HTML
 - [x] CSS
 - [x] SASS
-- [ ] Javascript
+- [x] Javascript
 - [ ] React.JS
+- [ ] PHP
+- [ ] SQL
 
 ## 📫 How to reach me: ...
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
@@ -26,15 +28,15 @@
 
 
 
-<!--
+
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning JavaScript, React
+- 🌱 I’m currently learning ~~JavaScript.~~ PHP
 - ⚡ Fun fact: I started my web development journey last April 2021
 
 
-
+<!--
 
 **lexus654/lexus654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
