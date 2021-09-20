@@ -13,9 +13,11 @@
 - [x] CSS
 - [x] SASS
 - [x] Javascript
+- [x] Python
 - [ ] React.JS
 - [ ] PHP
 - [ ] SQL
+- [ ] Django
 
 ## 📫 How to reach me: ...
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
@@ -32,7 +34,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ~~JavaScript.~~ PHP
+- 🌱 I’m currently learning ~~JavaScript.~~ PHP, Django
 - ⚡ Fun fact: I started my web development journey last April 2021
 
 
