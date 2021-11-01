@@ -14,7 +14,8 @@
 - [x] SASS
 - [x] Javascript
 - [x] Python
-- [ ] React.JS
+- [x] React.JS
+- [ ] Styled Components
 - [ ] PHP
 - [ ] SQL
 - [ ] Django
