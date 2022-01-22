@@ -5,6 +5,7 @@
   - A BS in *Electronics and Communication Engineering* Student.
   - A **DOST Scholar** <3 
   - Technical Operation Manager at TUP Programming Guild
+  - Coding Instructor @ BrightChamps 
   - Badminton is my Main Sports
   - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
 
