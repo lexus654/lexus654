@@ -9,6 +9,7 @@
   - Coding Instructor @ BrightChamps 
   - Badminton is my Main Sports
   - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
+  - Future GCE <3 
 
 ## TechStack that I want to ✨ learn ✨
 - [x] HTML
