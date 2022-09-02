@@ -1,15 +1,14 @@
 ### Hi there 👋 I am Ronald a future FullStack Web Developer :green_heart:
 
 ## 📫 Who am I?: 
-  Hello I am Ronald, Currently 2nd year student from Technological University of the Philippines.
+  Hello I am Ronald, Currently 3rd year student from Technological University of the Philippines.
   - A BS in *Electronics and Communication Engineering* Student.
   - A **DOST Scholar** <3 
-  - Technical Operation Manager at TUP Programming Guild
-  - Chief Relations Officer at Google Developers Student Club TUP Manila
-  - Coding Instructor @ BrightChamps 
+  - Lead at Google Developers Student Club TUP Manila
+  - Software Engineer @ BrightChamps 
   - Badminton is my Main Sports
   - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
-  - Future GCE <3 
+  -  GCE <3 
 
 ## TechStack that I want to ✨ learn ✨
 - [x] HTML
@@ -19,9 +18,9 @@
 - [x] Python
 - [x] React.JS
 - [x] Styled Components
-- [ ] MongoDB
-- [ ] Express
-- [ ] Node
+- [x] MongoDB
+- [x] Express
+- [x] Node
 
 ## 📫 How to reach me: ...
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
