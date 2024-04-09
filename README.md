@@ -6,7 +6,6 @@
   - A **DOST Scholar** <3 
   - Lead at Google Developers Student Club TUP Manila
   - GitHub Campus Expert 😎
-  - Software Engineer @ Information Evolution
   - Badminton is my Main Sports
   - I play games like Pokemon, Fire Emblem and watch Anime as a way to relieve stress. 
   -  GCE <3 
