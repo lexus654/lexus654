@@ -1,8 +1,8 @@
-### Hi there 👋 I am Ronald Junior Software Engineer :green_heart:
+### Hi there 👋 I am Ronald, Web Developer and a Tech Support :green_heart:
 
 ## 📫 Who am I?: 
-  Hello I am Ronald, Currently 3rd year student from Technological University of the Philippines.
-  - A BS in *Electronics and Communication Engineering* Student.
+  Hello I am Ronald.
+  - A graduate in BS in *Electronics and Communication Engineering*.
   - A **DOST Scholar** <3 
   - Lead at Google Developers Student Club TUP Manila
   - GitHub Campus Expert 😎
