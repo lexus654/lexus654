@@ -17,23 +17,15 @@
 -  Google Technologies 🤗
 
 ## 📫 How to reach me: ...
+- [Check out my Portfolio](https://ronald-dev.vercel.app/)
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
-- [DM me thru twitter](https://twitter.com/ronaldlaz4)
-- [Contact me thru Gmail](ronald.laz@tup.edu.ph)
-- [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-b04688217/)
+- [Contact me thru Gmail](laz.ronald.b@gmail.com)
+- [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-a04991299/)
 - [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
-
-
-
-
-
 
 
 Fun Fact about me:
 - ⚡ I started my web development journey last April 2021
-
-
-<!--
 
 **lexus654/lexus654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
