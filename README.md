@@ -21,7 +21,6 @@
 - [PM me thru Facebook](https://www.facebook.com/Lexus654)
 - [Contact me thru Gmail](laz.ronald.b@gmail.com)
 - [Here is my LinkedIn](https://www.linkedin.com/in/ronald-laz-a04991299/)
-- [You can also watch some of my project @tiktok](https://www.tiktok.com/@lexusoxo?)
 
 
 Fun Fact about me:
